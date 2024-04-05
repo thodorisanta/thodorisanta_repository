@@ -2,3 +2,4 @@ Initial commit
 New line added 1
 New line added 2
 New line added 3
+New line added 1
